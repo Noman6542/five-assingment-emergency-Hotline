@@ -62,9 +62,7 @@ for (let i = 0; i < callButtons.length; i++) {
                 `;
 
 
-   
-
-  callHistoryContainer.prepend(historyItem);      
+  callHistoryContainer.appendChild(historyItem);      
 } else {
     alert("You have no enough coin");
     }
@@ -103,4 +101,5 @@ copyButtons.forEach((button, index) => {
       }, 2000);
     });
   });
-});
+});  
+
