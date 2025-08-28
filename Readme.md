@@ -41,4 +41,6 @@ It catch the event parent, but it  work for inner child.
   there is difference:
     preventDefault:- Disables the browser's default action .
 
-    stopPropagation: - 
+    stopPropagation:- Event bubbling / capturing stops propagating to parent.
+
+<!-- -------------------------------------------------------------------------------------------- -->
