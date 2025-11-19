@@ -1,3 +1,61 @@
+# Five Assignment - Emergency Hotline
+
+**Five Assignment Emergency Hotline** is a responsive web application built with **JavaScript**, **Tailwind CSS**, and **DaisyUI**. The app provides users with quick access to emergency hotline numbers and information in a clean, easy-to-use interface.
+
+---
+
+## 🌟 Features
+
+- Responsive design for mobile and desktop  
+- Quick access to emergency hotline numbers  
+- Interactive UI components using **DaisyUI**  
+- Built entirely with **Vanilla JavaScript**, **Tailwind CSS**, and **DaisyUI**  
+- No backend required; purely frontend-based  
+
+---
+
+## 🛠 Technologies Used
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, DaisyUI  
+- **Deployment:** Netlify / Vercel  
+- **Version Control:** Git & GitHub  
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1.Q:What is the difference between getElementById, getElementsByClassName, and querySelector / querySelectorAll?
 
 1.Ans:
